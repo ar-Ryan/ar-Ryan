@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I am a Full Stack Developer, I specialize in backend development and AI Products 
-I am currently working on building my very own game in CPP 
 
 <!--
 **ar-Ryan/ar-Ryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
